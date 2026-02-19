@@ -1,0 +1,17 @@
+p{
+    border: 2PX solid powderblue;
+    padding: 70px;
+    margin: 70px;
+    text-align: center;
+}
+a:link, a:visited {
+            color: black;
+            padding: 15px 25px;
+            text-align: center;
+            text-decoration: none;
+            target: _blank;
+            display: inline-block;
+        }
+        a:hover, a:active {
+            background-color: powderblue;
+        }
